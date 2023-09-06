@@ -1,0 +1,33 @@
+"2023-09-05 00:24:44 - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7ef2d7a6
+""2023-09-05 00:24:52 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2023-09-05 00:24:56 - 28 mappings in 'requestMappingHandlerMapping'
+""2023-09-05 00:24:58 - Patterns [/index.html, /**, /swagger-ui*/**] in 'resourceHandlerMapping'
+""2023-09-05 00:24:58 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+""2023-09-05 00:24:58 - ControllerAdvice beans: 3 @ExceptionHandler, 1 ResponseBodyAdvice
+""2023-09-05 00:24:59 - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+""2023-09-05 00:25:00 - Closing org.springframework.web.context.support.GenericWebApplicationContext@7ef2d7a6, started on Tue Sep 05 00:24:44 PDT 2023
+""2023-09-05 00:31:00 - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@544630b7
+""2023-09-05 00:31:08 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2023-09-05 00:31:09 - 28 mappings in 'requestMappingHandlerMapping'
+""2023-09-05 00:31:11 - Patterns [/index.html, /**, /swagger-ui*/**] in 'resourceHandlerMapping'
+""2023-09-05 00:31:11 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+""2023-09-05 00:31:11 - ControllerAdvice beans: 3 @ExceptionHandler, 1 ResponseBodyAdvice
+""2023-09-05 00:31:12 - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+""2023-09-05 00:31:13 - Closing org.springframework.web.context.support.GenericWebApplicationContext@544630b7, started on Tue Sep 05 00:31:00 PDT 2023
+""2023-09-05 23:17:50 - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@544630b7
+""2023-09-05 23:18:05 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2023-09-05 23:18:07 - 28 mappings in 'requestMappingHandlerMapping'
+""2023-09-05 23:18:09 - Patterns [/index.html, /**, /swagger-ui*/**] in 'resourceHandlerMapping'
+""2023-09-05 23:18:10 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+""2023-09-05 23:18:10 - ControllerAdvice beans: 3 @ExceptionHandler, 1 ResponseBodyAdvice
+""2023-09-05 23:18:12 - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+""2023-09-05 23:18:14 - Closing org.springframework.web.context.support.GenericWebApplicationContext@544630b7, started on Tue Sep 05 23:17:50 PDT 2023
+""2023-09-05 23:19:39 - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@544630b7
+""2023-09-05 23:19:47 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2023-09-05 23:19:49 - 28 mappings in 'requestMappingHandlerMapping'
+""2023-09-05 23:19:51 - Patterns [/index.html, /**, /swagger-ui*/**] in 'resourceHandlerMapping'
+""2023-09-05 23:19:51 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+""2023-09-05 23:19:51 - ControllerAdvice beans: 3 @ExceptionHandler, 1 ResponseBodyAdvice
+""2023-09-05 23:19:54 - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+""2023-09-05 23:19:55 - Closing org.springframework.web.context.support.GenericWebApplicationContext@544630b7, started on Tue Sep 05 23:19:39 PDT 2023
+"
