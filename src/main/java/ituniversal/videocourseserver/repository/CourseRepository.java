@@ -1,10 +1,7 @@
 package ituniversal.videocourseserver.repository;
 
 import ituniversal.videocourseserver.entity.Course;
-import ituniversal.videocourseserver.entity.Module;
-import jdk.dynalink.linker.LinkerServices;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
 
 import java.util.List;
 import java.util.UUID;
